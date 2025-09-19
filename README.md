@@ -7,6 +7,8 @@ Whether you’re selling one-time payment products or offering subscription prod
 BagelPay is the payment partner you always deserved, we strive for simplicity and straightforwardness on our APIs.
 
 
+## [Our Mission](https://bagelpay.io/vision)
+
 
 
 <!--
