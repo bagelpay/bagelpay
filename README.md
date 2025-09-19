@@ -1,4 +1,13 @@
-## Hi there 👋
+## Welcome to BagelPay 👋
+
+BagelPay is your comprehensive solution for managing all aspects of global payment processing. We are a Merchant of Record handling end to end global payments for digital products. 
+
+Whether you’re selling one-time payment products or offering subscription products, BagelPay provides a seamless platform to help you handle manage products, handle transactions and ensure compliance—all from one easy-to-use dashboard.
+
+BagelPay is the payment partner you always deserved, we strive for simplicity and straightforwardness on our APIs.
+
+
+
 
 <!--
 **bagelpay/bagelpay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
